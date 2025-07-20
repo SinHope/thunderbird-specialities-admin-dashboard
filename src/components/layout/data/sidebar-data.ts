@@ -25,20 +25,20 @@ import { type SidebarData } from '../types'
 
 export const sidebarData: SidebarData = {
   user: {
-    name: 'satnaing',
-    email: 'satnaingdev@gmail.com',
+    name: 'Petra',
+    email: 'petrathunderbirds@gmail.com',
     avatar: '/avatars/shadcn.jpg',
   },
   teams: [
     {
-      name: 'Shadcn Admin',
+      name: 'Thunderbird Specialities',
       logo: Command,
-      plan: 'Vite + ShadcnUI',
+      plan: 'Main',
     },
     {
-      name: 'Acme Inc',
+      name: 'Developers',
       logo: GalleryVerticalEnd,
-      plan: 'Enterprise',
+      plan: 'For Devs Use Only',
     },
     {
       name: 'Acme Corp.',
