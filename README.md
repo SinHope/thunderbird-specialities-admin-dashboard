@@ -60,9 +60,9 @@ Start the server
   pnpm run dev
 ```
 
-## Sponsoring this project ❤️
+## Credits For this project ❤️
 
-If you find this project helpful or use this in your own work, consider [sponsoring me](https://github.com/sponsors/satnaing) to support development and maintenance. You can [buy me a coffee](https://buymeacoffee.com/satnaing) as well. Don’t worry, every penny helps. Thank you! 🙏
+Thank you Satnaing for providing such good Admin Dashboard UI. Very pretty. 
 
 For questions or sponsorship inquiries, feel free to reach out at [contact@satnaing.dev](mailto:contact@satnaing.dev).
 
@@ -70,7 +70,7 @@ For questions or sponsorship inquiries, feel free to reach out at [contact@satna
 
 - [Clerk](https://go.clerk.com/GttUAaK) - for backing the implementation of Clerk in this project
 
-## Author
+## Original Author
 
 Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
 
